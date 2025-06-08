@@ -1,16 +1,21 @@
-# marksheetchanger
+# Marksheet and Certificate Generator
 
-A new Flutter project.
+This project allows you to generate marksheets and certificates automatically from data sources like CSV files.
 
-## Getting Started
+## Usage
 
-This project is a starting point for a Flutter application.
+1. Load your CSV data containing student details.
+2. Choose the folder where generated PDFs will be saved.
+3. Generate certificates or marksheets by running the provided functions.
+4. The PDFs will be saved in the selected directory.
 
-A few resources to get you started if this is your first Flutter project:
+## Terms and Conditions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- This project is developed and maintained by Thiha Hein.
+- You are free to use, modify, and distribute this project under the terms of the MIT License (see LICENSE file).
+- The project is provided "as is" without any warranty.
+- Use it at your own risk.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributions
+
+Contributions are welcome. By submitting, you agree to license your work under the same MIT License.
